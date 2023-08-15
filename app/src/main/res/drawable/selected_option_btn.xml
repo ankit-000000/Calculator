@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- selected_option_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFC107" /> <!-- Replace with your desired color -->
+    <corners android:radius="10dp" /> <!-- Optional: Add rounded corners if desired -->
+</shape>
